@@ -8,5 +8,5 @@ setup(name='PyMAB',
       author='Binh Nguyen',
       author_email='nguyenthaibinh@gmail.com',
       url='http://github.com/nguyenthaibinh/pymab',
-      packages=['pymab', 'pymab.algorithms.thompson', 'pymab.algorithms.greedy', 'pymab.algorithms.softmax', 'pymab.arms'],
+      packages=['pymab', 'pymab.algorithms', 'pymab.algorithms.thompson', 'pymab.algorithms.greedy', 'pymab.algorithms.softmax', 'pymab.arms'],
     )
