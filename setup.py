@@ -8,5 +8,5 @@ setup(name='Distutils',
       author='Binh Nguyen',
       author_email='nguyenthaibinh@gmail.com',
       url='https://www.python.org/sigs/distutils-sig/',
-      packages=['pymab', 'pymab.algorithms.thompson', 'pymab.algorithms.greedy', 'pymab.algorithms.sofmax', 'pymab.arms'],
+      packages=['pymab', 'pymab.algorithms.thompson', 'pymab.algorithms.greedy', 'pymab.algorithms.softmax', 'pymab.arms'],
     )
