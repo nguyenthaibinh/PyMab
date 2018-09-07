@@ -1,1 +1,1 @@
-# A library for Multi-arm bandits algorithm
+## A fast library for Multi-arm bandits algorithm
